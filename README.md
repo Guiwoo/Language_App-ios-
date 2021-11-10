@@ -33,3 +33,7 @@
    | 그냥 함수 같음 y = 2x 이런느낌                        |
    | border,bgcolor,rotation awesome so cool               |
    | #When you need to change color check out nativeDriber |
+
+   | 4. PanResponder Api                                 |
+   | --------------------------------------------------- |
+   | What is this ? Recognize gesture of fingers or move |
